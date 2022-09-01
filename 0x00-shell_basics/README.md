@@ -1,1 +1,1 @@
-A script that prints the absolute path name of the working directory
+My first commit in a long format
